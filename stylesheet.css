@@ -1,0 +1,132 @@
+body{
+  font-family: "Avenir Next";
+  background: #F2F2F2;
+}
+.header{
+  height: 100px;
+  cursor: pointer;
+}
+.header-img img {
+  padding: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  float: left;
+  }
+.header-name p {
+  font-size: 20px;
+  margin-top: 30px;
+  float: left;
+  cursor: pointer;
+}
+.header-name a {
+  text-decoration: none;
+  color: blue;
+}
+.header-name span{
+  color: #2f5167;
+  font-size: 17px;
+}
+.header-icon img {
+  width: 25px;
+  float: right;
+  margin-top: 40px;
+  margin-right: 45px;
+  cursor: pointer;
+}
+.main {
+  height: 665px;
+}
+.copy-container p {
+  font-size: 20px;
+  margin-left: 30px;
+}
+.contents-item img {
+  height: 550px;
+  width: 1250px;
+  margin-left: 30px;
+  cursor: pointer;
+}
+.contents-icon img {
+  width: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+  float: left;
+  cursor: pointer;
+}
+.contents-icon p {
+  float: left;
+  padding: 6px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.footer {
+  background-color: #E5E4E2;
+  color: black;
+  height: 300px;
+  padding: 40px;
+}
+.section-comment select {
+  background: transparent;
+  border: 0;
+  margin-right: 50px;
+  cursor: pointer;
+}
+.section-comment1 {
+  height: 105px;
+}
+.section-comment1 img {
+  margin-top: 20px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  float: left;
+  cursor: pointer;
+}
+.section-comment1 p {
+  font-size: 15px;
+  margin-top: 18px;
+  margin-left: 15px;
+  float: left;
+  cursor: pointer;
+}
+.section-comment1 span {
+  color: #2f5167;
+  font-size: 17px;
+  margin-top: 40px;
+}
+.section-comment1 k {
+  color: #423D3B;
+}
+.section-comment1 c {
+  margin-left: 65px;
+  color: steelblue; 
+  float: left;
+  cursor: pointer;
+}
+.section-comment2 img {
+  margin-top: 40px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  float: left;
+}
+.section-comment2 textarea {
+  width: 1165px;
+  height: 80px;
+  margin-left: 15px;
+  margin-top: 40px;
+  color: #858585;
+  border: none;
+}
+.section-post button {
+  margin-top: 20px;
+  margin-left: 66px;
+  color: #fff;
+  cursor: pointer;
+  background: #4599FF;
+  height: 40px;
+  width: 150px;
+  border-radius: 7px;
+  border: none;
+}
